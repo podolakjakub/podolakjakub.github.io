@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![me_in_zaandvoort](/static/photo.jpg)
+![me_in_zaandvoort](/static/photo.jpg){: width="250" }
 
 Hi! I'm Jakub, grad student at University of Amsterdam (Artificial Intelligence)
 

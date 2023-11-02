@@ -1,7 +1,7 @@
 ---
 layout: page
-title: cv
+title: CV
 permalink: /cv/
 ---
 
-My cv can be found here:
+My CV can be found [here](https://podolakjakub.github.io/static/jakub_podolak_resume.pdf)

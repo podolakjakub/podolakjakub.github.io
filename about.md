@@ -4,19 +4,18 @@ title: About
 permalink: /about/
 ---
 
-I'm an AI Masters Student at University of Amsterdam.
+![me_in_zaandvoort](/static/photo.jpg)
+
+Hi! I'm Jakub, grad student at University of Amsterdam (Artificial Intelligence)
+
+I'm interested in Machine Learning, Data Science, I create some electric music for fun [spotify](https://open.spotify.com/artist/44DDOJqPXcqI43vYOPWvZC)
+
+I work part-time in Data Science, and I'm a member of [ML in PL association](https://mlinpl.org/) since 2022 conference!
+
 Please contact me using email:
 jakub.podolak@student.uva.nl
 
-#### Source of website:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Publications
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- Empty here!

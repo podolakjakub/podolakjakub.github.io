@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 ![me_in_zaandvoort](/static/photo.jpg){: width="250" }
